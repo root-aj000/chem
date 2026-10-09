@@ -1,0 +1,8 @@
+.lead/
+.dev/
+data/
+.venv/
+
+*.zip
+Agents.md
+opencode.json
